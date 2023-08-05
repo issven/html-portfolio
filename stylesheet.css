@@ -1,0 +1,39 @@
+body{
+    background-image: url(GenshinImpact.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+h1.main{
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 2vw;
+    font-family: monospace;
+    color: azure;
+    opacity: 60%;
+}
+
+.label{
+    text-align: right;
+
+}
+
+.input{
+    text-align: left;
+    max-width: max-content;
+    position: relative;
+}
+
+#form{
+    text-align: center;
+    background-color: rgba(227, 239, 239, 0.788);
+    max-width: 27%;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+
+
+
+
+
